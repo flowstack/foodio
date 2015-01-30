@@ -1,0 +1,38 @@
+.container-fluid {
+    padding: 0px;
+}
+
+.hero {
+    background-image: url('../img/female-background.jpg');
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: 100%;
+    height: 500px;
+    position:relative;
+}
+
+.hero h1 {
+    margin-top:0;
+    position: absolute;
+    top: 200px;
+    margin-left:30px;
+    color:#fff;
+    font-size:4em;
+    background-color:#8a211d;
+    padding:10px;
+}
+
+h3 { font-size:1.4em; }
+
+.wrapper-md { padding:20px; }
+.wrapper-lg { padding:30px; }
+.wrapper-xl { padding:40px; }
+.text-center { text-align:center; }
+.m-t-md { margin-top:20px; }
+.m-t-lg { margin-top:30px; }
+.m-t-xl { margin-top:60px; }
+.m-b-xl { margin-bottom:60px; }
+.text-white { color:#fff; }
+.text-lg { font-size:1.8em; }
+
+.bg-primary { background-color:#A6AD3C; }
